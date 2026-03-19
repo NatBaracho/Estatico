@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# Estatico
-=======
+
 # ⚡ Métodos Estáticos em C#
 
 Este repositório contém um projeto prático de estudo em **C#** focado em demonstrar o uso de **Métodos Estáticos** na Programação Orientada a Objetos (POO).
@@ -24,4 +22,4 @@ Este projeto explora os seguintes conceitos:
 2. Clone este repositório:
    ```bash
    git clone [https://github.com/NatBaracho/Estatico.git](https://github.com/NatBaracho/Estatico.git)
->>>>>>> ea9943a0ece4aa1ff0c2f23c51bd7d7ea75eec4f
+
